@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="webUi.respuesta.RespuestaPreguntaTresTestWebUI" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-11-01T22:10:53" hostname="DESKTOP-6R1SD89" time="32.654">
+  <properties/>
+  <testcase name="preguntaTres()" classname="webUi.respuesta.RespuestaPreguntaTresTestWebUI" time="32.654"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
